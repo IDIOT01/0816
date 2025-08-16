@@ -1,0 +1,12 @@
+train_rgb: D:/drone_data/dataset/rgb_aligned/train/images
+val_rgb: D:/drone_data/dataset/rgb_aligned/val/images
+train_ir: D:/drone_data/dataset/ir_aligned/train/images
+val_ir: D:/drone_data/dataset/ir_aligned/val/images
+
+# number of classes
+nc: 1
+
+# class names
+names: ['drone']
+
+

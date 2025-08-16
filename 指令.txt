@@ -1,0 +1,1 @@
+python train.py --weights yolo11n.pt --cfg models/yolov11n-transformerx3.yaml --data data.yaml --epoch 20 --batch-size 16 --workers 0
